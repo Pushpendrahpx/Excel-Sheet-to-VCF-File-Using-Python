@@ -9,7 +9,7 @@ pip install -r requirements.txt
 3. Add Your Spreadsheet '<any-name>.xlsx' in same folder of main.py 
 4. Run From terminal or Command Prompt
 ```
-python main.py <your-spreadsheet-name>.xls
+python main.py <your-spreadsheet-name>.xlsx
 ```
 5. And it will generate new file in same directory named 'contacts.vcf'
 
