@@ -7,7 +7,7 @@
 pip install -r requirements.txt
 ```
 3. Add Your Spreadsheet '<any-name>.xlsx' in same folder of main.py 
-4. Run From terminal or Command Prompt
+4. Run From terminal or Command Prompt [ Don't Forget to pass spreadsheet filename as Argument ]
 ```
 python main.py <your-spreadsheet-name>.xlsx
 ```
